@@ -35,5 +35,3 @@ docker run IMAGEN_ID
 
 Este proyecto está bajo la Licencia (MIT) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
----
-⌨️ con ❤️ por [evertcode](https://github.com/evertcode) 😊
